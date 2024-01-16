@@ -1,1 +1,1 @@
-This the first class to get commit
+This is the second class to get commit - Changes made for merge
